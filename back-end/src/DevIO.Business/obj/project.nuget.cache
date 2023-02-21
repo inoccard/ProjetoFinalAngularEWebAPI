@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "daCXboRYXhYHxVXUHn5CsolKxWzKhxS3T6zwyXKmwmnS0HbZoyyheuxz16Fv5qf6HJQAodhGTd8ZhxFiuvVcZQ==",
+  "success": true,
+  "projectFilePath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inoce\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\inoce\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
