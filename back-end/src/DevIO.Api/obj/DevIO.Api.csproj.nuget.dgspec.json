@@ -1,45 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj": {}
+    "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj": {}
   },
   "projects": {
-    "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj": {
+    "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj",
+        "projectUniqueName": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj",
         "projectName": "DevIO.Api",
-        "projectPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj",
-        "packagesPath": "C:\\Users\\inoce\\.nuget\\packages\\",
-        "outputPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Api\\obj\\",
+        "projectPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Api\\DevIO.Api.csproj",
+        "packagesPath": "C:\\Users\\inocencio.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\inoce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inocencio.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj"
               },
-              "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj": {
-                "projectPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj"
+              "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj": {
+                "projectPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj"
               }
             }
           }
@@ -133,16 +131,11 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.24, 3.1.24]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -151,29 +144,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj",
-        "packagesPath": "C:\\Users\\inoce\\.nuget\\packages\\",
-        "outputPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\obj\\",
+        "projectPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "packagesPath": "C:\\Users\\inocencio.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\inoce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inocencio.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -209,7 +199,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -218,29 +209,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj",
-        "packagesPath": "C:\\Users\\inoce\\.nuget\\packages\\",
-        "outputPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Data\\obj\\",
+        "projectPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "packagesPath": "C:\\Users\\inocencio.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\inoce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inocencio.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -253,8 +241,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\inoccard\\code\\ProjetoFinalAngular\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\inoccard\\Projects\\ProjetoFinalAngularEWebAPI\\back-end\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }
@@ -288,7 +276,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -297,7 +286,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
